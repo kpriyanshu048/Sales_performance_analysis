@@ -68,14 +68,8 @@ This project analyzes sales data to uncover **trends, patterns, and business ins
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-├── analysis/
-├── visuals/
-├── README.md
-```
+## 📁 Files in Repository
+sales_performance_analysis.ipynb – Complete analysis
 
 ---
 
